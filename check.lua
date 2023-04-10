@@ -3,4 +3,5 @@ return {
   "Sharkzz",
   "SouzaaSZ",
   "Janzeh",
+  "Nesc4uu",
 }
