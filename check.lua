@@ -1,6 +1,6 @@
 return {
   "Efauchier",
-  "Sharkzz"
-
-
+  "Sharkzz",
+  "SouzaaSZ",
+  "Janzeh",
 }
