@@ -4,4 +4,5 @@ return {
   "SouzaaSZ",
   "Janzeh",
   "Nesc4uu",
+  "knight1337",
 }
