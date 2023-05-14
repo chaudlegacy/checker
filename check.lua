@@ -5,4 +5,5 @@ return {
   "Janzeh",
   "Nesc4uu",
   "knight1337",
+  "shiina",
 }
