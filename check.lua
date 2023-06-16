@@ -6,4 +6,5 @@ return {
   "Nesc4uu",
   "knight1337",
   "shiina",
+  "BARBA",
 }
